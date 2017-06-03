@@ -68,4 +68,6 @@
 
 - [КР № 1](kr/КонтрольнаяРабота-1.md)
 
+- [La chance final](kr/La_chance_final.md)
+
 
